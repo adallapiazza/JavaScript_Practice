@@ -6,3 +6,6 @@ Simple script to understand difference in creating a variable (var) and a consta
 
 #### rockPaperScissors.js
 Simple script to practice function creation and control flow (used if/else but could have used switch statements as well).
+
+#### miniLinter.js
+Simple script to practice iterators and string splitting.
