@@ -9,3 +9,7 @@ Simple script to practice function creation and control flow (used if/else but c
 
 #### miniLinter.js
 Simple script to practice iterators and string splitting.
+
+#### mealMaker.js
+Simple script to practice creating an object, getter and setter methods, modify opbject properties, and use the created object.
+Output generates a random three course meal and its price.
